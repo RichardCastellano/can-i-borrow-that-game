@@ -1,0 +1,19 @@
+{
+  "name": "can-i-borrow-that-game",
+  "version": "1.0.0",
+  "description": "copies game files and puts it into a exe file so you can send it to a friend and they can borrow your owned game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardCastellano/can-i-borrow-that-game.git"
+  },
+  "author": "RichyCast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardCastellano/can-i-borrow-that-game/issues"
+  },
+  "homepage": "https://github.com/RichardCastellano/can-i-borrow-that-game#readme"
+}
